@@ -100,3 +100,12 @@ p {
 .links:hover {
     background-color: yellow;
 }
+a {
+    text-decoration: none;
+}
+.article:hover; {
+    color:yellow;
+}
+html {
+    scroll-behavior:smooth;
+}
