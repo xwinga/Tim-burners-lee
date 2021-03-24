@@ -83,7 +83,6 @@ p {
     right: 30px;
     z-index: 10;
     cursor: pointer;
-
 }
 
 .links {
@@ -98,7 +97,7 @@ p {
 }
 
 .links:hover {
-    background-color: yellow;
+    background-color: limegreen;
 }
 a {
     text-decoration: none;
@@ -108,4 +107,7 @@ a {
 }
 html {
     scroll-behavior:smooth;
+}
+ul {
+    
 }
